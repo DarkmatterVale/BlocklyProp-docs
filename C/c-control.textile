@@ -2,17 +2,10 @@ h1. Control
 
 BlocklyProp supports many advanced features of programming, some of which include the use of delay blocks, repeat blocks, and if blocks.
 
-* Using delay blocks: "here":#control_delay
 * Using repeat blocks: "here":#control_repeat
 * Using if blocks: "here":#control_if
 
 !images/control_introduction.png!
-
-h2(#control_delay). Delay the program by an amount of time
-
-If you need to pause your program, or a cog in your program, for a certain amount of time, you can use the delay block. This block allows you to stop a cog for any amount of time without stopping any other cogs. Below is an example of how to use the delay block.
-
-!images/control_delay_example.png!
 
 h2(#control_repeat). Repeating code in BlocklyProp
 

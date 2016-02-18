@@ -1,0 +1,13 @@
+h2. Base Delay
+
+p(short). Block: Pausing a core for X milliseconds of time
+
+!help?f=blocks/control/resources/base-delay-example.png(base delay)!
+
+Delaying a core
+
+h3. Delay Values
+
+!help?f=blocks/control/resources/base-delay-example.png(base delay)!
+
+If you need to pause your program, or a cog in your program, for a certain amount of time, you can use the delay block. This block allows you to stop a cog for any amount of time without stopping any other cogs.
