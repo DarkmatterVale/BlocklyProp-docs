@@ -1,0 +1,25 @@
+h2. Rotation
+
+p(short). Block: Rotation
+
+!help?f=blocks/math/bit-math/resources/rotations.png(rotation block)!
+
+Implementing rotations
+
+h3. Using the Rotation block
+
+!help?f=blocks/math/bit-math/resources/rotations.png(rotation block)!
+
+A rotation is also known as a circular shift. This is where either the first or last bit are flipped, and the remaining bits are shifted.
+
+h3. Generated code
+
+TODO: Add generated code picture
+
+h4. Spin
+
+TODO: Add code examples
+
+h4. C
+
+TODO: Add code examples

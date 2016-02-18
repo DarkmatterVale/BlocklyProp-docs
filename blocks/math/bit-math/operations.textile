@@ -1,0 +1,29 @@
+h2. Operation Blocks
+
+p(short). Block: AND, OR, XOR, and NOT
+
+!help?f=blocks/control/resources/bit-math-introduction.png(base delay)!
+
+Implementing bit operations
+
+h3. AND, OR, XOR, and NOT
+
+!help?f=blocks/control/resources/bit-math-gates.png(base delay)!
+
+These functions are based off of the AND, OR, XOR and NOT gates. The AND gate returns true if both of the conditions are true, and false is only one or none of the conditions is true. The OR gate returns true if either of the conditions are true. The XOR gate returns true if neither of the conditions are true.
+
+!help?f=blocks/control/resources/bit-math-not.png(base delay)!
+
+Bit NOT takes the opposite state of every bit ( a 1 becomes a 0, a 0 becomes a 1 ).
+
+h3. Generated code
+
+TODO: Add generated code picture
+
+h4. Spin
+
+TODO: Add code examples
+
+h4. C
+
+TODO: Add code examples

@@ -1,0 +1,25 @@
+h2. Shift
+
+p(short). Block: Shift
+
+!help?f=blocks/math/bit-math/resources/shifts.png(shift block)!
+
+Implementing shifts
+
+h3. Using the Shift block
+
+!help?f=blocks/math/bit-math/resources/shifts.png(shift block)!
+
+Shifts allow you to shift all of the bits left or right. In essence, this allows the change of a value of a variable by the change in a bit.
+
+h3. Generated code
+
+TODO: Add generated code picture
+
+h4. Spin
+
+TODO: Add code examples
+
+h4. C
+
+TODO: Add code examples
