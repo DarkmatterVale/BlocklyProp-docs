@@ -11,3 +11,15 @@ h3. Delay Values
 !help?f=blocks/control/resources/base-delay-example.png(base delay)!
 
 If you need to pause your program, or a cog in your program, for a certain amount of time, you can use the delay block. This block allows you to stop a cog for any amount of time without stopping any other cogs.
+
+h3. Generated code
+
+TODO: Add generated code picture
+
+h4. Spin
+
+TODO: Add code examples
+
+h4. C
+
+TODO: Add code examples

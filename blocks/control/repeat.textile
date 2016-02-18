@@ -1,0 +1,25 @@
+h2. Repeat
+
+p(short). Block: Repeat
+
+!help?f=blocks/control/resources/control-repeat.png(repeat block)!
+
+Implementing the Repeat block in your code
+
+h3. Using the Repeat statement
+
+!help?f=blocks/control/resources/control-repeat.png(repeat block)!
+
+If you need to repeat blocks of code, this is easily possible using the repeat block. All you do is specify the number of times you would like the code to be repeated, and add the code you would like to repeat inside of the repeate block.
+
+h3. Generated code
+
+TODO: Add generated code picture
+
+h4. Spin
+
+TODO: Add code examples
+
+h4. C
+
+TODO: Add code examples

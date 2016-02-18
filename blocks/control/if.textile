@@ -1,0 +1,25 @@
+h2. If Statements
+
+p(short). Block: If statements
+
+!help?f=blocks/control/resources/control-if-statement.png(if statement)!
+
+Implementing if statements
+
+h3. Using the if statement
+
+!help?f=blocks/control/resources/control-if-statement.png(if statement)!
+
+While being able to repeat blocks of code is great, you will also probably need to be able to use if statements. BlocklyProp makes this easy. Below is a simple example. All you have to do to get the if block to work is add a statement with a returning value of either true or false, and add the code you would like to execute based on whether the if statement is true or not.
+
+h3. Generated code
+
+TODO: Add generated code picture
+
+h4. Spin
+
+TODO: Add code examples
+
+h4. C
+
+TODO: Add code examples
