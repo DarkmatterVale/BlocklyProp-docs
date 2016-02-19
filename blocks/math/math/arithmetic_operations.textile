@@ -1,0 +1,25 @@
+h2. Arithmetic Operations
+
+p(short). Block: 
+
+!help?f=blocks/math/math/resources/math_introduction.png(math introduction)!
+
+Implementing value blocks
+
+h3. Using value blocks
+
+!help?f=blocks/math/math/resources/math_value_example.png(math introduction)!
+
+The most basic of mathematical concepts! There is a very easy way to use math value in BlocklyProp. Simply drag a math block ( the top of the list in the Math category ) to a value field on a block, set the value and voila!
+
+h3. Generated code
+
+TODO: Add generated code picture
+
+h4. Spin
+
+TODO: Add code examples
+
+h4. C
+
+TODO: Add code examples
